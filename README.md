@@ -1,1 +1,1 @@
-[link] (https://webdev-hw-resume-site.netlify.app/) to the live website preview
+link to the live website preview: https://webdev-hw-resume-site.netlify.app/
