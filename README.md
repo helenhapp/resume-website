@@ -1,1 +1,2 @@
-link to the live website preview: https://webdev-hw-resume-site.netlify.app/
+
+- [Live Site URL](https://webdev-hw-resume-site.netlify.app/)
